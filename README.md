@@ -91,12 +91,7 @@ Maharashtra, India
 - Power Platform and business intelligence solutions
 - Learning and applying modern data and automation practices to real-world business challenges
 
-## Contact
-
-- Email: elias.pathan@gmail.com
-- Phone: (646) 807-5370
 - LinkedIn: https://www.linkedin.com/in/epathan
-- Website: http://www.mepathan.com
 
 ## Let's Connect
 
