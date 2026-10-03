@@ -4,15 +4,6 @@ A data analyst, citizen developer, and automation-focused professional with expe
 
 I work at the intersection of business processes, data, and technology—building tools that help teams work smarter, faster, and with more clarity.
 
-## About Me
-
-- Data and reporting professional with experience in NYCHA and HRA public-sector operations
-- Passionate about automating repetitive work and improving operational efficiency
-- Skilled in business intelligence, database reporting, workflow automation, and custom tools
-- Strong background in Excel, VBA, Power Platform, SQL, and data analysis
-- Experienced in creating business-facing applications and reports to support decision-making
-
-
 ## Skills
 ### Data Analysis and Reporting
 - Power BI
