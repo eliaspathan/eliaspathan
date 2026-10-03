@@ -37,8 +37,7 @@ I work at the intersection of business processes, data, and technology—buildin
 - Microsoft Office 365
 
 
-- LinkedIn: https://www.linkedin.com/in/epathan
-
 ## Let's Connect
 
 I’m always open to collaboration, meaningful projects, and opportunities where data, automation, and process improvement can create real impact.
+- LinkedIn: https://www.linkedin.com/in/epathan
